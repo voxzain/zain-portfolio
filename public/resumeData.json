@@ -1,11 +1,11 @@
 {
   "main": {
     "name": "Vox Zen",
-    "occupation": "Full-Stack Developer & AI Enthusiast",
-    "description": "",
+    "occupation": "Backend & Systems Engineer — VoIP, CPaaS & AI-assisted Ops",
+    "description": "I build and operate lightweight communication infrastructure, including CPaaS platforms, SIP-based systems, backend APIs, automation tools, and AI-assisted monitoring workflows.",
     "image": "profilepic.jpg",
-    "bio": "I'm Zen, an independent developer behind Vox Zen. I build backend systems, AI integrations, and communication platforms. My work focuses on practical products such as CPaaS solutions, Discord bots, and scalable web applications, with a strong emphasis on automation and real-world utility.",
-    "contactmessage": "Let's build something amazing together!",
+    "bio": "I'm Zen, an independent developer behind Vox Zen. I build backend systems and communication platforms with a focus on VoIP, SIP, Asterisk, CPaaS, automation, and Linux operations. My work includes building practical products such as a lightweight CPaaS platform, Discord automation bots, AI-assisted monitoring tools, and scalable web applications designed for real-world use.",
+    "contactmessage": "Interested in communication systems, automation, or backend infrastructure? Let's connect.",
     "email": "zen@voxzen.site",
     "phone": "+6282125230397",
     "website": "",
@@ -19,109 +19,111 @@
       {
         "name": "instagram",
         "url": "https://www.instagram.com/zeennn.03",
-        "className": "fa fa-github"
+        "className": "fa fa-instagram"
       }
     ],
     "profiles": [
       {
         "name": "discord",
         "url": "https://discord.com/users/729619739835367425",
-        "className": "fa fa-box"
+        "className": "fa fa-discord"
       }
     ]
   },
-"resume": {
-  "skillmessage": "My Technical Arsenal",
-  "skills": [
-    {
-      "name": "CustomScript",
-      "icon": "/icon/code.svg"
-    },
-    {
-      "name": "SIP",
-      "icon": "/icon/network.svg"
-    },
-    {
-      "name": "Next.js",
-      "icon": "/icon/react.svg"
-    },
-    {
-      "name": "Asterisk",
-      "icon": "/icon/asterisk.svg"
-    },
-    {
-      "name": "Python & FastAPI",
-      "icon": "/icon/python.svg"
-    },
-    {
-      "name": "CustomAMD",
-      "icon": "/icon/cpu.svg"
-    },
-    {
-      "name": "Google Cloud",
-      "icon": "/icon/cloud.svg"
-    },
-    {
-      "name": "OSINT (basic)",
-      "icon": "/icon/search.svg"
-    },
-    {
-      "name": "Azure",
-      "icon": "/icon/azure.svg"
-    },
-    {
-      "name": "Machine Learning (basic)",
-      "icon": "/icon/ai.svg"
-    },
-    {
-      "name": "AWS",
-      "icon": "/icon/aws.svg"
-    }
-  ]
-},
-"portfolio": {
-  "projects": [
-    {
-      "title": "CPaaS Mini [Published]",
-      "about": "A scalable CPaaS platform powered by Azure Communication Services and AWS Amazon Connect, supporting voice automation, call handling, and real-time communication systems.",      "image": "/byte.png",
-      "url": "https://voxbot.live/"
-    },
-    {
-      "title": "Discord AI Assistant Bot [Published]",
-      "about": "An AI-powered Discord assistant built using OpenAI and ElevenLabs. Supports conversational AI, voice interaction, and automation features for community management.",
-      "image": "/akshaya.png",
-      "url": "https://voxibot.org/"
-    },
-    {
-      "title": "Roblox Game (Beta) [Published]",
-      "about": "A game developed using Roblox Studio and Lua scripting. Focused on gameplay mechanics and interactive player experience.",
-      "image": "/devdump.png",
-      "url": "https://www.roblox.com/games/75687552062935/Cast-Catch"
-    },
-    {
-      "title": "Discord Game Bot [In Progress]",
-      "about": "A Discord bot currently in development focused on game features, player interaction, and community engagement systems.",
-      "image": "/furnace.png",
-      "url": "#"
-    },
-    {
-      "title": "Online Shop Web App [In Progress]",
-      "about": "An e-commerce web application with Stripe payment gateway integration. Includes product management, checkout system, and secure payment handling.",
-      "image": "/leegit.png",
-      "url": "#"
-    }
-  ]
-},
-  "testimonials": {
-    "testimonials": [
+  "resume": {
+    "skillmessage": "Technical Focus",
+    "skills": [
       {
-        "text": "Alex's technical expertise and problem-solving abilities are outstanding. They transformed our entire infrastructure and reduced costs by 40%.",
-        "user": "Sarah Chen, CTO at TechVentures"
+        "name": "Backend Systems",
+        "icon": "/icon/code.svg"
       },
       {
-        "text": "Working with Alex was a game-changer for our team. Their code quality and architectural decisions set new standards for our organization.",
-        "user": "Marcus Johnson, Engineering Manager"
+        "name": "VoIP & SIP",
+        "icon": "/icon/network.svg"
+      },
+      {
+        "name": "Asterisk",
+        "icon": "/icon/asterisk.svg"
+      },
+      {
+        "name": "CPaaS Architecture",
+        "icon": "/icon/cloud.svg"
+      },
+      {
+        "name": "Python & FastAPI",
+        "icon": "/icon/python.svg"
+      },
+      {
+        "name": "Next.js",
+        "icon": "/icon/react.svg"
+      },
+      {
+        "name": "Linux Operations",
+        "icon": "/icon/cpu.svg"
+      },
+      {
+        "name": "Automation Scripts",
+        "icon": "/icon/code.svg"
+      },
+      {
+        "name": "AI-assisted Monitoring",
+        "icon": "/icon/ai.svg"
+      },
+      {
+        "name": "Google Cloud",
+        "icon": "/icon/cloud.svg"
+      },
+      {
+        "name": "Azure Communication Services",
+        "icon": "/icon/azure.svg"
+      },
+      {
+        "name": "AWS Amazon Connect",
+        "icon": "/icon/aws.svg"
       }
     ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "CPaaS Mini [Published]",
+        "about": "A lightweight CPaaS platform built to support voice automation, call handling, and communication workflows. The system integrates cloud communication services with backend APIs, operational tooling, and real-world user usage.",
+        "image": "/byte.png",
+        "url": "https://voxbot.live/"
+      },
+      {
+        "title": "Discord AI Assistant Bot [Published]",
+        "about": "An AI-powered Discord assistant built with OpenAI and ElevenLabs. It supports conversational AI, voice interaction, and automation features for community use.",
+        "image": "/akshaya.png",
+        "url": "https://voxibot.org/"
+      },
+      {
+        "title": "VoIP / SIP Infrastructure Tools",
+        "about": "A collection of tools and experiments around SIP, Asterisk, call monitoring, AMD detection, and communication system observability.",
+        "image": "/devdump.png",
+        "url": "https://github.com/vox-zen"
+      },
+      {
+        "title": "Roblox Game Beta [Published]",
+        "about": "A Roblox game built using Roblox Studio and Lua scripting, focused on gameplay mechanics and interactive player experience.",
+        "image": "/devdump.png",
+        "url": "https://www.roblox.com/games/75687552062935/Cast-Catch"
+      },
+      {
+        "title": "Discord Game Bot [In Progress]",
+        "about": "A Discord bot currently in development, focused on game features, player interaction, and community engagement systems.",
+        "image": "/furnace.png",
+        "url": "#"
+      },
+      {
+        "title": "Online Shop Web App [In Progress]",
+        "about": "An e-commerce web application with Stripe payment integration, product management, checkout flow, and secure payment handling.",
+        "image": "/leegit.png",
+        "url": "#"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": []
   }
 }
