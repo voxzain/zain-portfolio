@@ -1,10 +1,10 @@
-# fly.toml app configuration file generated for zen-portfolio on 2026-04-12T09:23:11Z
+# fly.toml app configuration file generated for zain--portfolio on 2026-05-17T15:42:47Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'zen-portfolio'
-primary_region = 'nrt'
+app = 'zain--portfolio'
+primary_region = 'ams'
 
 [build]
 
