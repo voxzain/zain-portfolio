@@ -5,7 +5,7 @@ export default function Footer() {
         <div className="font-mono text-accent text-center">
           <pre className="text-xs md:text-sm">
             {`╔════════════════════════════════════╗
-║  crafted_with_love_by_zen   ║
+║  crafted_with_love_by_zain   ║
 ╚════════════════════════════════════╝`}
           </pre>
           <p className="text-muted-foreground text-xs mt-4">
