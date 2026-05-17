@@ -1,24 +1,24 @@
 {
   "main": {
-    "name": "Vox Zen",
-    "occupation": "Backend & Systems Engineer — VoIP, CPaaS & AI-assisted Ops",
+    "name": "Zain",
+    "occupation": "Backend & Systems Engineer — VoIP, Linux ops & communication tools",
     "description": "I build and operate lightweight communication infrastructure, including CPaaS platforms, SIP-based systems, backend APIs, automation tools, and AI-assisted monitoring workflows.",
     "image": "profilepic.jpg",
-    "bio": "I'm Zen, an independent developer behind Vox Zen. I build and operate backend systems, VoIP infrastructure, and CPaaS tools from the ground up, with a focus on SIP, Asterisk, automation, Linux operations, and practical AI-assisted monitoring.",
+    "bio": "I'm Zain, an independent developer behind Voice Operations SaaS. I build and operate backend systems, VoIP infrastructure, and CPaaS tools from the ground up, with a focus on SIP, Asterisk, automation, Linux operations, and practical AI-assisted monitoring.",
     "contactmessage": "Interested in communication systems, automation, or backend infrastructure? Let's connect.",
-    "email": "zen@voxzen.site",
+    "email": "zain@voxzain.site",
     "phone": "+6282125230397",
     "website": "",
     "resumedownload": "",
     "social": [
       {
         "name": "github",
-        "url": "https://github.com/vox-zen",
+        "url": "https://github.com/voxzain",
         "className": "fa fa-github"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/zeennn.03",
+        "url": "https://www.instagram.com/voxzain",
         "className": "fa fa-instagram"
       }
     ],
@@ -101,7 +101,7 @@
         "title": "VoIP / SIP Infrastructure Tools",
         "about": "A collection of tools and experiments around SIP, Asterisk, call monitoring, AMD detection, and communication system observability.",
         "image": "/devdump.png",
-        "url": "https://github.com/vox-zen"
+        "url": "https://github.com/voxzain"
       },
       {
         "title": "Roblox Game Beta [Published]",
