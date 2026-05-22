@@ -1,11 +1,11 @@
 {
   "main": {
     "name": "Zain",
-    "occupation": "CPaaS & VoIP Systems Builder — Backend, SIP & Linux Infrastructure",
-    "description": "I build and operate lightweight communication systems, focusing on VoIP, CPaaS platforms, SIP-based infrastructure, backend APIs, and automation tools.",
+    "occupation": "Voice Systems Builder — VoIP, SIP & AI Communication Systems",
+    "description": "I build and operate voice systems, focusing on VoIP infrastructure, SIP-based communication, backend APIs, and AI-powered voice workflows.",
     "image": "profilepic.jpg",
-    "bio": "I'm Zain, an independent developer building Voice Operations SaaS. I work on VoIP systems, CPaaS infrastructure, and backend services from the ground up, focusing on SIP, Asterisk, Linux systems, automation, and practical monitoring tools.",
-    "contactmessage": "Interested in communication systems, automation, or backend infrastructure? Let's connect.",
+    "bio": "I'm Zain, an independent developer building Voice Operations SaaS. I design and operate voice systems using VoIP, SIP infrastructure, backend services, automation, and AI voice technologies for real-time communication workflows.",
+    "contactmessage": "Interested in voice systems, automation, or backend infrastructure? Let's connect.",
     "email": "zain@voxzain.site",
     "phone": "+6282125230397",
     "website": "",
@@ -34,50 +34,86 @@
   "resume": {
     "skillmessage": "Technical Focus",
     "skills": [
-      { "name": "Backend Systems", "icon": "/icon/code.svg" },
-      { "name": "VoIP & SIP Systems", "icon": "/icon/network.svg" },
-      { "name": "Asterisk", "icon": "/icon/asterisk.svg" },
-      { "name": "CPaaS Infrastructure", "icon": "/icon/cloud.svg" },
-      { "name": "Python & FastAPI", "icon": "/icon/python.svg" },
-      { "name": "Next.js", "icon": "/icon/react.svg" },
-      { "name": "Linux Systems", "icon": "/icon/cpu.svg" },
-      { "name": "Automation Scripts", "icon": "/icon/code.svg" },
-      { "name": "Monitoring & Observability", "icon": "/icon/ai.svg" },
-      { "name": "Google Cloud", "icon": "/icon/cloud.svg" },
-      { "name": "Azure Communication Services", "icon": "/icon/azure.svg" },
-      { "name": "AWS Amazon Connect", "icon": "/icon/aws.svg" }
+      {
+        "name": "Backend Systems",
+        "icon": "/icon/code.svg"
+      },
+      {
+        "name": "Voice Systems (VoIP & SIP)",
+        "icon": "/icon/network.svg"
+      },
+      {
+        "name": "Asterisk",
+        "icon": "/icon/asterisk.svg"
+      },
+      {
+        "name": "Voice System Architecture",
+        "icon": "/icon/cloud.svg"
+      },
+      {
+        "name": "Python & FastAPI",
+        "icon": "/icon/python.svg"
+      },
+      {
+        "name": "Next.js",
+        "icon": "/icon/react.svg"
+      },
+      {
+        "name": "Linux Infrastructure",
+        "icon": "/icon/cpu.svg"
+      },
+      {
+        "name": "Automation Systems",
+        "icon": "/icon/code.svg"
+      },
+      {
+        "name": "Voice AI & Monitoring",
+        "icon": "/icon/ai.svg"
+      },
+      {
+        "name": "Google Cloud",
+        "icon": "/icon/cloud.svg"
+      },
+      {
+        "name": "Azure Communication Services",
+        "icon": "/icon/azure.svg"
+      },
+      {
+        "name": "AWS Services",
+        "icon": "/icon/aws.svg"
+      }
     ]
   },
 
   "portfolio": {
     "projects": [
       {
-        "title": "CPaaS Platform (Voice Operations System)",
-        "about": "A lightweight CPaaS system for voice automation and call handling. Built with backend APIs, communication workflows, and integration with cloud telephony services.",
+        "title": "Voice Operations SaaS Platform",
+        "about": "A voice system platform for handling call workflows, SIP-based routing, and communication automation using backend orchestration and cloud telephony integration.",
         "image": "/byte.png",
         "url": "https://voxbot.live/"
       },
       {
-        "title": "Discord AI Assistant Bot",
+        "title": "Discord AI Voice Assistant",
         "about": "An AI assistant for Discord built with OpenAI and ElevenLabs, supporting conversational AI, voice interaction, and automation features.",
         "image": "/akshaya.png",
         "url": "https://voxibot.org/"
       },
       {
-        "title": "VoIP & SIP Infrastructure Tools",
-        "about": "Tools and experiments for SIP, Asterisk, call monitoring, AMD detection, and communication system observability.",
+        "title": "Voice Systems & SIP Toolkit",
+        "about": "Tools for SIP routing, call monitoring, AMD detection, and voice system observability in production environments.",
         "image": "/devdump.png",
         "url": "https://github.com/voxzain"
       },
       {
         "title": "Roblox Game Project",
-        "about": "A Roblox game built with Roblox Studio and Lua, focused on gameplay mechanics and interactive experience.",
+        "about": "A Roblox game built with Lua scripting and Roblox Studio, focused on gameplay mechanics and interactive experience.",
         "image": "/devdump.png",
         "url": "https://www.roblox.com/games/75687552062935/Cast-Catch"
       },
       {
         "title": "Discord Game Bot (In Progress)",
-        "about": "A Discord bot in development focused on game mechanics, player interaction, and community features.",
+        "about": "A Discord bot under development focused on game mechanics, interaction systems, and community engagement features.",
         "image": "/furnace.png",
         "url": "#"
       },
