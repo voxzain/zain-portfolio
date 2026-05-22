@@ -1,10 +1,10 @@
 {
   "main": {
     "name": "Zain",
-    "occupation": "Backend & Systems Engineer — VoIP, Linux ops & communication tools",
-    "description": "I build and operate lightweight communication infrastructure, including CPaaS platforms, SIP-based systems, backend APIs, automation tools, and AI-assisted monitoring workflows.",
+    "occupation": "CPaaS & VoIP Systems Builder — Backend, SIP & Linux Infrastructure",
+    "description": "I build and operate lightweight communication systems, focusing on VoIP, CPaaS platforms, SIP-based infrastructure, backend APIs, and automation tools.",
     "image": "profilepic.jpg",
-    "bio": "I'm Zain, an independent developer behind Voice Operations SaaS. I build and operate backend systems, VoIP infrastructure, and CPaaS tools from the ground up, with a focus on SIP, Asterisk, automation, Linux operations, and practical AI-assisted monitoring.",
+    "bio": "I'm Zain, an independent developer building Voice Operations SaaS. I work on VoIP systems, CPaaS infrastructure, and backend services from the ground up, focusing on SIP, Asterisk, Linux systems, automation, and practical monitoring tools.",
     "contactmessage": "Interested in communication systems, automation, or backend infrastructure? Let's connect.",
     "email": "zain@voxzain.site",
     "phone": "+6282125230397",
@@ -30,99 +30,66 @@
       }
     ]
   },
+
   "resume": {
     "skillmessage": "Technical Focus",
     "skills": [
-      {
-        "name": "Backend Systems",
-        "icon": "/icon/code.svg"
-      },
-      {
-        "name": "VoIP & SIP",
-        "icon": "/icon/network.svg"
-      },
-      {
-        "name": "Asterisk",
-        "icon": "/icon/asterisk.svg"
-      },
-      {
-        "name": "CPaaS Architecture",
-        "icon": "/icon/cloud.svg"
-      },
-      {
-        "name": "Python & FastAPI",
-        "icon": "/icon/python.svg"
-      },
-      {
-        "name": "Next.js",
-        "icon": "/icon/react.svg"
-      },
-      {
-        "name": "Linux Operations",
-        "icon": "/icon/cpu.svg"
-      },
-      {
-        "name": "Automation Scripts",
-        "icon": "/icon/code.svg"
-      },
-      {
-        "name": "AI-assisted Monitoring",
-        "icon": "/icon/ai.svg"
-      },
-      {
-        "name": "Google Cloud",
-        "icon": "/icon/cloud.svg"
-      },
-      {
-        "name": "Azure Communication Services",
-        "icon": "/icon/azure.svg"
-      },
-      {
-        "name": "AWS Amazon Connect",
-        "icon": "/icon/aws.svg"
-      }
+      { "name": "Backend Systems", "icon": "/icon/code.svg" },
+      { "name": "VoIP & SIP Systems", "icon": "/icon/network.svg" },
+      { "name": "Asterisk", "icon": "/icon/asterisk.svg" },
+      { "name": "CPaaS Infrastructure", "icon": "/icon/cloud.svg" },
+      { "name": "Python & FastAPI", "icon": "/icon/python.svg" },
+      { "name": "Next.js", "icon": "/icon/react.svg" },
+      { "name": "Linux Systems", "icon": "/icon/cpu.svg" },
+      { "name": "Automation Scripts", "icon": "/icon/code.svg" },
+      { "name": "Monitoring & Observability", "icon": "/icon/ai.svg" },
+      { "name": "Google Cloud", "icon": "/icon/cloud.svg" },
+      { "name": "Azure Communication Services", "icon": "/icon/azure.svg" },
+      { "name": "AWS Amazon Connect", "icon": "/icon/aws.svg" }
     ]
   },
+
   "portfolio": {
     "projects": [
       {
-        "title": "CPaaS Mini [Published]",
-        "about": "A lightweight CPaaS platform built to support voice automation, call handling, and communication workflows. The system integrates cloud communication services with backend APIs, operational tooling, and real-world user usage.",
+        "title": "CPaaS Platform (Voice Operations System)",
+        "about": "A lightweight CPaaS system for voice automation and call handling. Built with backend APIs, communication workflows, and integration with cloud telephony services.",
         "image": "/byte.png",
         "url": "https://voxbot.live/"
       },
       {
-        "title": "Discord AI Assistant Bot [Published]",
-        "about": "An AI-powered Discord assistant built with OpenAI and ElevenLabs. It supports conversational AI, voice interaction, and automation features for community use.",
+        "title": "Discord AI Assistant Bot",
+        "about": "An AI assistant for Discord built with OpenAI and ElevenLabs, supporting conversational AI, voice interaction, and automation features.",
         "image": "/akshaya.png",
         "url": "https://voxibot.org/"
       },
       {
-        "title": "VoIP / SIP Infrastructure Tools",
-        "about": "A collection of tools and experiments around SIP, Asterisk, call monitoring, AMD detection, and communication system observability.",
+        "title": "VoIP & SIP Infrastructure Tools",
+        "about": "Tools and experiments for SIP, Asterisk, call monitoring, AMD detection, and communication system observability.",
         "image": "/devdump.png",
         "url": "https://github.com/voxzain"
       },
       {
-        "title": "Roblox Game Beta [Published]",
-        "about": "A Roblox game built using Roblox Studio and Lua scripting, focused on gameplay mechanics and interactive player experience.",
+        "title": "Roblox Game Project",
+        "about": "A Roblox game built with Roblox Studio and Lua, focused on gameplay mechanics and interactive experience.",
         "image": "/devdump.png",
         "url": "https://www.roblox.com/games/75687552062935/Cast-Catch"
       },
       {
-        "title": "Discord Game Bot [In Progress]",
-        "about": "A Discord bot currently in development, focused on game features, player interaction, and community engagement systems.",
+        "title": "Discord Game Bot (In Progress)",
+        "about": "A Discord bot in development focused on game mechanics, player interaction, and community features.",
         "image": "/furnace.png",
         "url": "#"
       },
       {
-        "title": "Online Shop Web App [In Progress]",
-        "about": "An e-commerce web application with Stripe payment integration, product management, checkout flow, and secure payment handling.",
+        "title": "E-commerce Web App (In Progress)",
+        "about": "A web application with product management, checkout flow, and Stripe payment integration.",
         "image": "/leegit.png",
         "url": "#"
       }
     ]
   },
+
   "testimonials": {
     "testimonials": []
   }
