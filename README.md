@@ -50,7 +50,7 @@ docker run -p 3000:3000 zen-portfolio
 ---
 
   ## 👤 Author
-  Vizi – Full Stack Developer (Communication Tools Focus)
+  Voice Systems Builder (Communication Systems Focus)
   
 ---
 
