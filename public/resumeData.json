@@ -1,7 +1,7 @@
 {
   "main": {
     "name": "Zain",
-    "occupation": "Voice Systems Builder — VoIP, SIP & AI Communication Systems",
+    "occupation": "Voice Systems Builder — VoIP, SIP & Communication Systems",
     "description": "I build and operate voice systems, focusing on VoIP infrastructure, SIP-based communication, backend APIs, and AI-powered voice workflows.",
     "image": "profilepic.jpg",
     "bio": "I'm Zain, an independent developer building Voice Operations SaaS. I design and operate voice systems using VoIP, SIP infrastructure, backend services, automation, and AI voice technologies for real-time communication workflows.",
@@ -9,7 +9,7 @@
     "email": "zain@voxzain.site",
     "phone": "+6282125230397",
     "website": "",
-    "resumedownload": "",
+    "resumedownload": "/zainresume.pdf",
     "social": [
       {
         "name": "github",
@@ -48,7 +48,7 @@
       },
       {
         "name": "Voice System Architecture",
-        "icon": "/icon/cloud.svg"
+        "icon": "/icon/network.svg"
       },
       {
         "name": "Python & FastAPI",
@@ -91,13 +91,13 @@
         "title": "Voice Operations SaaS Platform",
         "about": "A voice system platform for handling call workflows, SIP-based routing, and communication automation using backend orchestration and cloud telephony integration.",
         "image": "/byte.png",
-        "url": "https://voxbot.live/"
+        "url": "https://zain--portfolio.fly.dev/"
       },
       {
         "title": "Discord AI Voice Assistant",
         "about": "An AI assistant for Discord built with OpenAI and ElevenLabs, supporting conversational AI, voice interaction, and automation features.",
         "image": "/akshaya.png",
-        "url": "https://voxibot.org/"
+        "url": "https://zain--portfolio.fly.dev/"
       },
       {
         "title": "Voice Systems & SIP Toolkit",
