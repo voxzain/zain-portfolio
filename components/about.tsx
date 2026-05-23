@@ -3,6 +3,7 @@ interface AboutProps {
     bio: string
     email: string
     phone: string
+    resumedownload?: string
     social: Array<{
       name: string
       url: string
@@ -49,6 +50,19 @@ export default function About({ data }: AboutProps) {
                 <span className="text-accent">phone:</span> <span className="text-muted-foreground">{data.phone}</span>
               </div>
             </div>
+
+            {data.resumedownload ? (
+              <div className="mt-6">
+                <a
+                  href={data.resumedownload}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-block font-mono text-xs text-accent hover:text-foreground transition-colors border border-border px-3 py-1 hover:bg-accent/10"
+                >
+                  [view cv / resume]
+                </a>
+              </div>
+            ) : null}
 
             <div className="mt-6 flex flex-wrap gap-4">
               {data.social?.map((social) => (
