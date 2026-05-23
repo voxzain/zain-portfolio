@@ -1,4 +1,4 @@
-# Zen Portfolio
+# Zain Portfolio
 
 Personal portfolio website built with modern web technologies.
 
@@ -50,6 +50,7 @@ docker run -p 3000:3000 zen-portfolio
 ---
 
   ## 👤 Author
+  **Zain**
   Voice Systems Builder (Communication Systems Focus)
   
 ---
