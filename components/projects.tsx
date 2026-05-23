@@ -10,12 +10,14 @@ interface ProjectsProps {
 }
 
 export default function Projects({ data }: ProjectsProps) {
-  const publishedProjects = data.projects?.filter((project) =>
-    project.title.toLowerCase().includes("published")
+  const isInProgress = (title: string) => title.toLowerCase().includes("in progress")
+
+  const publishedProjects = data.projects?.filter(
+    (project) => !isInProgress(project.title)
   )
 
   const inProgressProjects = data.projects?.filter((project) =>
-    project.title.toLowerCase().includes("in progress")
+    isInProgress(project.title)
   )
 
   return (
